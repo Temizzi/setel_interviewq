@@ -1,5 +1,5 @@
 # setel_interviewq
-setel_interview_questions:
+Setel interview Question No.2: Web Automation Testing
 
 [Documentation]    This test case will do the following:
 1. Search Apple 11 on amazon.com and ebay.com.
